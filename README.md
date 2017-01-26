@@ -11,4 +11,4 @@ Here are some algorithms questions I implemented!
 
 (3)reorder List:https://leetcode.com/problems/reorder-list/
 
-（4）Count Univalue Subtree: https://leetcode.com/problems/count-univalue-subtrees/
+(4)Count Univalue Subtree: https://leetcode.com/problems/count-univalue-subtrees/
