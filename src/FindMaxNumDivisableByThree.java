@@ -3,7 +3,7 @@ public class FindMaxNumDivisableByThree {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        int[] nums=new int[]{3,1,4,1,5,9};
+        int[] nums=new int[]{3,1,2,4,0};
         System.out.println("the largets number divisable by 3 is: "+findlargestnum(nums));
 	    
 	}
@@ -28,6 +28,7 @@ public class FindMaxNumDivisableByThree {
 	            int rec=nums[nums.length-1]+1;
 	            for(int i=start;i<nums.length;i++){
 	                if(rec!=nums[i]){
+	                	rec=nums[i];
 	                  visited[i]=true;
 	                  if(helper(nums,i+1,visited,size,level+1)) return true;
 	                  visited[i]=false;
