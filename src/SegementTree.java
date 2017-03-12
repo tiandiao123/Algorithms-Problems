@@ -21,7 +21,7 @@ public class SegementTree {
 	    	 treenode[nums.length+i]=nums[i];
 	     }
 	     for(int i=nums.length-1;i>=1;i--){
-	    	 treenode[i]=treenode[i<<2]+treenode[(i<<2)|1];
+	    	 treenode[i]=treenode[i<<1]+treenode[(i<<1)|1];
 	     }
 	}
 	
@@ -38,7 +38,7 @@ public class SegementTree {
 	     int res=0;
 	     int i=nums.length+start;
 	     int j=nums.length+end;
-	     for(;i<j;i>>=1,j>>=1){
+	     for(;i<=j;i>>=1,j>>=1){
 	    	 if((i&1)==1){
 	    		 res+=treenode[i];
 	    		 i++;
