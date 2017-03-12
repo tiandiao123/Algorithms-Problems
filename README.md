@@ -14,3 +14,6 @@ Here are some algorithms questions I implemented!
 (4)Count Univalue Subtree: https://leetcode.com/problems/count-univalue-subtrees/
 
 (5)find the largest number which is divisable by 3 given an array of digits(0~9):https://www.careercup.com/question?id=5746456070717440
+
+（6）segement-tree implementation: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+
