@@ -20,5 +20,5 @@ The implemented algorithms are in the src fold!
 
 (7)Range of Minimum using segment tree:https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
 
-(8)Sliding Window Maximum:https://leetcode.com/problems/sliding-window-maximum/#/description
+(8)Sliding Window Maximum:https://leetcode.com/problems/sliding-window-maximum/#/description(same question as above)
 
