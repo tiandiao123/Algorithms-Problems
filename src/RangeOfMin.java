@@ -50,7 +50,7 @@ public class RangeOfMin {
 		for(;i<=j;i>>=1,j>>=1){
 			if((i&1)==1){
 				if(nums[minindex]>nums[treenode[i]]){
-					minindex=i;
+					minindex=treenode[i];
 				}
 				i++;
 			}
@@ -64,5 +64,4 @@ public class RangeOfMin {
 		
 		return minindex;
 	}
-
 }
