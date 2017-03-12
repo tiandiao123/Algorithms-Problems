@@ -18,3 +18,5 @@ The implemented algorithms are in the src fold!
 
 (6)segement-tree implementation to handle range of sum problems: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
 
+(7)Range of Minimum using segment tree:https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+
