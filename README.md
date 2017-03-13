@@ -26,3 +26,5 @@ The implemented algorithms are in the src fold!
 
 (10)Count of Smaller Numbers After Self:https://leetcode.com/problems/count-of-smaller-numbers-after-self/?tab=Description#/description
 
+(11)Try to use segment tree to solve the probelm above(Please see my CountSmallerNum java file)!
+
