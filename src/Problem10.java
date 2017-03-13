@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Problem10{
 
-      public class node{
+      public static class node{
       	int val,leftcount=0,dup=0;
       	node left,right;
       	node(int val){
@@ -10,7 +10,15 @@ public class Problem10{
       	}
       }
     
-    
+    public static void main(String[] args){
+      int[] nums=new int[]{5,1,6,1};
+      List<Integer> list=countSmaller(nums);
+      System.out.println("the size of list is: "+list.size());
+      for(int i=0;i<list.size();i++){
+        System.out.println(list.get(i));
+      }
+
+    }
     public static List<Integer> countSmaller(int[] nums) {
          List<Integer> list=new LinkedList<>();
           if(nums==null||nums.length<1) return list;
