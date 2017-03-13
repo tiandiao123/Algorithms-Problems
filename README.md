@@ -24,3 +24,5 @@ The implemented algorithms are in the src fold!
 
 (9) sliding windoe min: https://leetcode.com/problems/sliding-window-maximum/#/description (same question as above(a little change), you can just see my slidingwindowmin java file)
 
+(10)Count of Smaller Numbers After Self:https://leetcode.com/problems/count-of-smaller-numbers-after-self/?tab=Description#/description
+
