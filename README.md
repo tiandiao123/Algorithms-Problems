@@ -27,3 +27,5 @@ The implemented algorithms are in the src fold!
 (10)Count of Smaller Numbers After Self:https://leetcode.com/problems/count-of-smaller-numbers-after-self/?tab=Description#/description
 
 (11)Use Segment tree to solve the problem above(please see my CountSmallerNum java file)!
+
+(12)the implementation of the Bibnart Indexed tree: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/

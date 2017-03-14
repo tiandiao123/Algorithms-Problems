@@ -32,6 +32,4 @@ public class slidingwindowmax{
         
         return res;
     }
-
-
 }
