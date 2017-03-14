@@ -28,4 +28,6 @@ The implemented algorithms are in the src fold!
 
 (11)Use Segment tree to solve the problem above(please see my CountSmallerNum java file)!
 
-(12)the implementation of the Bibnart Indexed tree: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+(12)the implementation of the Binary Indexed tree: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+
+(13) use  Binary indexed tree to solve problem Smaller Numbers After self(it will dramatically increase the speed of the algorithm compared to use segment tree):https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description

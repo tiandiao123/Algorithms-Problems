@@ -6,17 +6,17 @@ import java.util.*;
 public class BinaryIndexedTree{
     //private static int maxval=Integer.MIN_VALUE;
     public static void main(String[] args){
-        int[] nums=new int[]{1,2,3,4,8,10,11};
+        int[] nums=new int[]{100,2,3,4,8,10,11};
         // for(int ele:nums){
         // 	maxval=Math.max(maxval,nums[i]);
         // }
 
         int[] tree=new int[nums.length+1];
         buildtree(nums,tree);
-        System.out.println("now the fist 4 elements"+getsum(4,nums,tree));
-        update(0,3,nums,tree);
-        System.out.println("after updating the first element of the nums(change first index's value into 4)\n");
-        System.out.println("now th first element 4 elements is:"+getsum(4,nums,tree)+"\n");
+        System.out.println("now the fist 7 elements"+getsum(7,nums,tree));
+        update(0,1,nums,tree);
+        System.out.println("after updating the first element of the nums(change first index's value into 101)\n");
+        System.out.println("now the first element 7 elements is:"+getsum(7,nums,tree)+"\n");
      
     }
 
