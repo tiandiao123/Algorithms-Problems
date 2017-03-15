@@ -32,3 +32,5 @@ The implemented algorithms are in the src fold!
 (12)the implementation of the Binary Indexed tree: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
 
 (13) use  Binary indexed tree to solve problem Smaller Numbers After self(it will dramatically increase the speed of the algorithm compared to use segment tree,check CountSmaller java file):https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description
+
+(14) Use Binary Indexed tree to solve problem Count Range Sum problem:https://leetcode.com/problems/count-of-range-sum/#/description
