@@ -34,3 +34,5 @@ The implemented algorithms are in the src fold!
 (13) use  Binary indexed tree to solve problem Smaller Numbers After self(it will dramatically increase the speed of the algorithm compared to use segment tree,check CountSmaller java file):https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description
 
 (14) Use Binary Indexed tree to solve problem Count Range Sum problem:https://leetcode.com/problems/count-of-range-sum/#/description
+
+(15) Use Segment Tree to solve the probelm Count Range Sum Problem(please check my CntRangeSum java file)!
