@@ -30,7 +30,32 @@ public class ReversePairs2{
             }
             count+=j-(mid+1);
         }
-        Arrays.sort(nums,start,end+1);
+        Mymerge(nums,start,mid,end);
         return count;
+    }
+
+    public static void Mymerge(int[] nums,int start,int mid,int end){
+        int[] copy=new int[end-start+1];
+         int i=start;
+         int j=mid+1;
+         int p=0;
+         while(i<=mid&&j<=end){
+             if(nums[i]<=nums[j]){
+                 copy[p++]=nums[i];
+                 i++;
+             }else{
+                 copy[p++]=nums[j];
+                 j++;
+             }
+         }
+         while(i<=mid){
+             copy[p++]=nums[i];
+             i++;
+         }
+         while(j<=end){
+             copy[p++]=nums[j++];
+         }
+         System.arraycopy(copy,0,nums,start,end-start+1);
+         
     }
 }

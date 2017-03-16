@@ -17,8 +17,8 @@ public class ReversePairs {
           Set<Long> set=new HashSet<>();
           set.add(Long.MIN_VALUE);
           for(int ele:nums){
-              set.add(Long.valueOf(ele-1));
-              set.add(Long.valueOf(2*ele));
+              set.add(Long.valueOf(ele)-1);
+              set.add(Long.valueOf(ele)*2);
           }
           
           Long[] vararray=set.toArray(new Long[0]);
@@ -26,8 +26,8 @@ public class ReversePairs {
           int[] tree=new int[vararray.length];
           int sum=0;
           for(int i=nums.length-1;i>=0;i--){
-              sum+=get(tree,Arrays.binarySearch(vararray,Long.valueOf(nums[i]-1)));
-              update(tree,Arrays.binarySearch(vararray,Long.valueOf(2*nums[i])));
+              sum+=get(tree,Arrays.binarySearch(vararray,Long.valueOf(nums[i])-1));
+              update(tree,Arrays.binarySearch(vararray,2*Long.valueOf(nums[i])));
           }
           return sum;
     }
