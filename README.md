@@ -37,4 +37,6 @@ The implemented algorithms are in the src fold!
 
 (15) Use Segment Tree to solve the probelm Count Range Sum Problem(please check my CntRangeSum java file)!
 
-(16) Reverse Pairs:https://leetcode.com/problems/reverse-pairs/?tab=Description#/description
+(16) Reverse Pairs(Use Binary Indexed Tree):https://leetcode.com/problems/reverse-pairs/?tab=Description#/description
+
+(17) Use Merge and Conquer algorithms to solve the problem above(Reverse Pairs, check my ReversePairs2.java file)
