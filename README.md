@@ -40,3 +40,5 @@ The implemented algorithms are in the src fold!
 (16) Reverse Pairs(Use Binary Indexed Tree):https://leetcode.com/problems/reverse-pairs/?tab=Description#/description
 
 (17) Use Merge and Conquer algorithms to solve the problem above(Reverse Pairs, check my ReversePairs2.java file)
+
+(18) Use merger and conquer algorithm to solve the problem Range of Sum problem(check RangeOfSum2 java file)
