@@ -5,8 +5,9 @@ Update Time: 3/12/2017
 Here are some algorithms questions I implemented!
 The implemented algorithms are in the src fold!
 
-### Questions Links:
+## Questions Links:
 
+### Normal Problems:
 (1)decodestring:https://www.careercup.com/question?id=5692396030394368
 
 (2)basic calculator:https://leetcode.com/problems/basic-calculator/
@@ -16,6 +17,8 @@ The implemented algorithms are in the src fold!
 (4)Count Univalue Subtree: https://leetcode.com/problems/count-univalue-subtrees/
 
 (5)find the largest number which is divisable by 3 given an array of digits(0~9):https://www.careercup.com/question?id=5746456070717440
+
+### Segement tree and Binart Indexed Tree Peoblems:
 
 (6)segement-tree implementation to handle range of sum problems: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
 
@@ -43,7 +46,10 @@ The implemented algorithms are in the src fold!
 
 (18) Use merge and conquer algorithm to solve the problem Range of Sum problem(check RangeOfSum2 java file)
 
+### Red-Black Tree Problems:
 (19)Use Java to Impement Red Black Tree(Please check my RBTree java file):https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/
+
+### Trie Tree problems:
 
 (20)use trie tree to solve Palindrome Pairs:https://leetcode.com/problems/palindrome-pairs/#/description 
 
