@@ -56,3 +56,5 @@ The implemented algorithms are in the src fold!
 (2)use trie tree ro solve Concatenated Words:https://leetcode.com/problems/concatenated-words/#/description
 
 (3)use trie tree to solve Maximum XOR of Two Numbers in an Array :https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/#/description
+
+(4)use trie tree to solve word search:https://leetcode.com/problems/word-search-ii/#/description
