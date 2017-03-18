@@ -43,4 +43,6 @@ The implemented algorithms are in the src fold!
 
 (18) Use merge and conquer algorithm to solve the problem Range of Sum problem(check RangeOfSum2 java file)
 
-(19)Use Java Impement Red Black Tree:https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/
+(19)Use Java Impement Red Black Tree(Please check my RBTree java file):https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/
+
+(20)Palindrome Pairs:https://leetcode.com/problems/palindrome-pairs/#/description 
