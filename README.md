@@ -1,13 +1,13 @@
 Name: Cuiqing Li
 
-Update Time: 3/12/2017
+Update Time: 3/18/2017
 
 Here are some algorithms questions I implemented!
 The implemented algorithms are in the src fold!
 
 ## Questions Links:
 
-### Normal Problems:
+### Normal Problems(including some sliding windows problems):
 (1)decodestring:https://www.careercup.com/question?id=5692396030394368
 
 (2)basic calculator:https://leetcode.com/problems/basic-calculator/
@@ -20,9 +20,9 @@ The implemented algorithms are in the src fold!
 
 (6)Sliding Window Maximum:https://leetcode.com/problems/sliding-window-maximum/#/description 
 
-(7) sliding windoe min: https://leetcode.com/problems/sliding-window-maximum/#/description (same question as above(a little change), you can just see my slidingwindowmin java file)
+(7)Sliding window Min: https://leetcode.com/problems/sliding-window-maximum/#/description (same question as above(a little change), you can just see my slidingwindowmin java file)
 
-### Segement tree and Binart Indexed Tree Peoblems:
+### Segement tree and Binary Indexed Tree Peoblems:
 
 (1)segement-tree implementation to handle range of sum problems: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
 
@@ -54,3 +54,5 @@ The implemented algorithms are in the src fold!
 (1)use trie tree to solve Palindrome Pairs:https://leetcode.com/problems/palindrome-pairs/#/description 
 
 (2)use trie tree ro solve Concatenated Words:https://leetcode.com/problems/concatenated-words/#/description
+
+(3)use trie tree to solve Maximum XOR of Two Numbers in an Array :https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/#/description
