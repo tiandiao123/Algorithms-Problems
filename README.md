@@ -46,9 +46,6 @@ The implemented algorithms are in the src fold!
 
 (11) Use merge and conquer algorithm to solve the problem Range of Sum problem(check RangeOfSum2 java file)
 
-### Red-Black Tree Problems:
-(1)Use Java to Impement Red Black Tree(Please check my RBTree java file):https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/
-
 ### Trie Tree problems:
 
 (1)use trie tree to solve Palindrome Pairs:https://leetcode.com/problems/palindrome-pairs/#/description 
