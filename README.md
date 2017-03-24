@@ -25,7 +25,7 @@ The implemented algorithms are in the src fold!
 ### DP algorithms:
 
 (1)implementation of the target sum, and the question's detsils are the following:
-   Given a positive integer array [a_1,a_2,...,a_n] and target sum S, please find the number of all the combinations of the array such that k_1*a_1+k_2*a_2+...+k_n*a_n=S,where k_i can only be 1 or -1.  
+   Given a positive integer array $[a_1,a_2,...,a_n]$ and target sum S, please find the number of all the combinations of the array such that $k_1*a_1+k_2*a_2+...+k_n*a_n=S$,where k_i can only be 1 or -1.  
 
 ### Segement tree and Binary Indexed Tree Peoblems:
 
