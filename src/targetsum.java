@@ -5,7 +5,7 @@ import java.util.*;
 public class targetsum{
 
     public static void main(String[] args){
-         int[] nums=new int[]{1,2,1};
+         int[] nums=new int[]{1,2,1,1};
          int target=3;
          int res=numoftargetsum(nums,target);
          System.out.println("there are total "+numoftargetsum(nums,target)+" different combinations");
