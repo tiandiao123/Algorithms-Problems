@@ -22,6 +22,8 @@ The implemented algorithms are in the src fold!
 
 (7)Sliding window Min: https://leetcode.com/problems/sliding-window-maximum/#/description (same question as above(a little change), you can just see my slidingwindowmin java file)
 
+(8)wordpattern2 problem(please check my wordpattern2.java file):https://leetcode.com/problems/word-pattern-ii/#/description
+
 ### DP algorithms:
 
 (1)implementation of the target sum, and the question's detsils are in my targetsum.java file
