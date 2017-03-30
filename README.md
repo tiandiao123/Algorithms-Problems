@@ -26,6 +26,8 @@ The implemented algorithms are in the src fold!
 
 (9)perfectnum problem(check perfectnum.java file): https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/
 
+(10)Boundary of Binary Tree(please check my boundaryOfBinaryTree java file):https://leetcode.com/problems/boundary-of-binary-tree/#/description
+
 ### DP algorithms:
 
 (1)implementation of the target sum, and the question's detsils are in my targetsum.java file
