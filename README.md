@@ -1,13 +1,13 @@
 Name: Cuiqing Li
 
-Update Time: 3/18/2017
+Update Time: 3/31/2017
 
 Here are some algorithms questions I implemented!
 The implemented algorithms are in the src fold!
 
 ## Questions Links:
 
-### Normal Problems(including some sliding windows problems):
+### Some Of Interview Questions:
 (1)decodestring:https://www.careercup.com/question?id=5692396030394368
 
 (2)basic calculator:https://leetcode.com/problems/basic-calculator/
@@ -29,6 +29,8 @@ The implemented algorithms are in the src fold!
 (10)Boundary of Binary Tree(please check my boundaryOfBinaryTree java file):https://leetcode.com/problems/boundary-of-binary-tree/#/description
 
 (11)H_index problem(check H_Index java file):https://leetcode.com/problems/h-index/#/description
+
+(12)H_Index2 problem:https://leetcode.com/problems/h-index-ii/#/description
 
 ### DP algorithms:
 
