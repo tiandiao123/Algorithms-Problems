@@ -28,6 +28,8 @@ The implemented algorithms are in the src fold!
 
 (10)Boundary of Binary Tree(please check my boundaryOfBinaryTree java file):https://leetcode.com/problems/boundary-of-binary-tree/#/description
 
+(11)H_index problem(check H_Index java file):https://leetcode.com/problems/h-index/#/description
+
 ### DP algorithms:
 
 (1)implementation of the target sum, and the question's detsils are in my targetsum.java file
