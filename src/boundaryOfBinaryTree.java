@@ -1,10 +1,11 @@
 
 import java.io.*;
+import java.lang.*;
 import java.util.*;
 
 public class boundaryOfBinaryTree{
 
-    List<Integer> list=new ArrayList<>(1000);
+    static List<Integer> list=new ArrayList<>(1000);
 
     public static List<Integer> boundaryOfBinaryTree(TreeNode root) {
             if(root==null) return list;
