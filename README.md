@@ -8,23 +8,23 @@ The implemented algorithms are in the src fold!
 ## Questions Links:
 
 ### Some Of Interview Questions:
-(1)decodestring:https://www.careercup.com/question?id=5692396030394368
+(1)[decode string](https://www.careercup.com/question?id=5692396030394368)
 
-(2)basic calculator:https://leetcode.com/problems/basic-calculator/
+(2)[basic calculator](https://leetcode.com/problems/basic-calculator/)
 
-(3)reorder List:https://leetcode.com/problems/reorder-list/
+(3)[reorder List](https://leetcode.com/problems/reorder-list/)
 
-(4)Count Univalue Subtree: https://leetcode.com/problems/count-univalue-subtrees/
+(4)[Count Univalue Subtree](https://leetcode.com/problems/count-univalue-subtrees/)
 
-(5)find the largest number which is divisable by 3 given an array of digits(0~9):https://www.careercup.com/question?id=5746456070717440
+(5)[find the largest number which is divisable by 3 given an array of digits(0~9)](https://www.careercup.com/question?id=5746456070717440)
 
-(6)Sliding Window Maximum:https://leetcode.com/problems/sliding-window-maximum/#/description 
+(6)[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/#/description) 
 
-(7)Sliding window Min: https://leetcode.com/problems/sliding-window-maximum/#/description (same question as above(a little change), you can just see my slidingwindowmin java file)
+(7)[Sliding window Min](https://leetcode.com/problems/sliding-window-maximum/#/description): same question as above(a little change), you can just see my slidingwindowmin java file
 
-(8)wordpattern2 problem(please check my wordpattern2.java file):https://leetcode.com/problems/word-pattern-ii/#/description
+(8)[wordpattern2 problem](https://leetcode.com/problems/word-pattern-ii/#/description):please check my wordpattern2.java file
 
-(9)[perfectnum problem](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/):(check perfectnum.java file)
+(9)[perfectnum problem](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/):check perfectnum.java file
 
 (10)[Boundary of Binary Tree(please check my boundaryOfBinaryTree java file)](https://leetcode.com/problems/boundary-of-binary-tree/#/description)
 
@@ -38,27 +38,27 @@ The implemented algorithms are in the src fold!
 
 (1)implementation of the target sum, and the question's detsils are in my targetsum.java file
 
-(2)Count Numbers with Unique Digits:https://leetcode.com/problems/count-numbers-with-unique-digits/#/description
+(2)[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/#/description)
 
 ### Segement tree and Binary Indexed Tree Peoblems:
 
-(1)segement-tree implementation to handle range of sum problems: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+(1)segement-tree implementation to handle range of sum problems:[question link](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
 
-(2)Range of Minimum using segment tree:https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+(2)Range of Minimum using segment tree:[question link](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
 
-(3)Count of Smaller Numbers After Self:https://leetcode.com/problems/count-of-smaller-numbers-after-self/?tab=Description#/description
+(3)Count of Smaller Numbers After Self:[question link](https://leetcode.com/problems/count-of-smaller-numbers-after-self/?tab=Description#/description)
 
 (4)Use Segment tree to solve the problem above(please see my CountSmallerNum java file)!
 
-(5)the implementation of the Binary Indexed tree: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/
+(5)the implementation of the Binary Indexed tree:[question link](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
 
-(6) use  Binary indexed tree to solve problem Smaller Numbers After self(it will dramatically increase the speed of the algorithm compared to use segment tree,check CountSmaller java file):https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description
+(6) use  Binary indexed tree to solve problem Smaller Numbers After self(it will dramatically increase the speed of the algorithm compared to use segment tree,check CountSmaller java file):[question link](https://leetcode.com/problems/count-of-smaller-numbers-after-self/#/description)
 
-(7) Use Binary Indexed tree to solve problem Count Range Sum problem:https://leetcode.com/problems/count-of-range-sum/#/description
+(7) Use Binary Indexed tree to solve problem Count Range Sum problem:[question link](https://leetcode.com/problems/count-of-range-sum/#/description)
 
 (8) Use Segment Tree to solve the probelm Count Range Sum Problem(please check my CntRangeSum java file)!
 
-(9) Reverse Pairs(Use Binary Indexed Tree):https://leetcode.com/problems/reverse-pairs/?tab=Description#/description
+(9) Reverse Pairs(Use Binary Indexed Tree):[question link](https://leetcode.com/problems/reverse-pairs/?tab=Description#/description)
 
 (10) Use Merge and Conquer algorithms to solve the problem above(Reverse Pairs, check my ReversePairs2.java file)
 
@@ -66,10 +66,10 @@ The implemented algorithms are in the src fold!
 
 ### Trie Tree problems:
 
-(1)use trie tree to solve Palindrome Pairs:https://leetcode.com/problems/palindrome-pairs/#/description 
+(1)use trie tree to solve Palindrome Pairs:[question link](https://leetcode.com/problems/palindrome-pairs/#/description)
 
-(2)use trie tree ro solve Concatenated Words:https://leetcode.com/problems/concatenated-words/#/description
+(2)use trie tree ro solve Concatenated Words:[question link](https://leetcode.com/problems/concatenated-words/#/description)
 
-(3)use trie tree to solve Maximum XOR of Two Numbers in an Array :https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/#/description
+(3)use trie tree to solve Maximum XOR of Two Numbers in an Array:[question link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/#/description)
 
-(4)use trie tree to solve word search:https://leetcode.com/problems/word-search-ii/#/description
+(4)use trie tree to solve word search:[question link](https://leetcode.com/problems/word-search-ii/#/description)
