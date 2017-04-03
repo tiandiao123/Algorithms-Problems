@@ -28,9 +28,9 @@ The implemented algorithms are in the src fold!
 
 (10)Boundary of Binary Tree(please check my boundaryOfBinaryTree java file):https://leetcode.com/problems/boundary-of-binary-tree/#/description
 
-(11)H_index problem(check H_Index java file):https://leetcode.com/problems/h-index/#/description
+(11)H_index problem(check H_Index java file):[leetcode 274](https://leetcode.com/problems/h-index/#/description)
 
-(12)H_Index2 problem:[leetcode 275](https://leetcode.com/problems/h-index-ii/#/description)
+(12)H_Index2 problem with my [code](src/H_Index2.java):[leetcode 275](https://leetcode.com/problems/h-index-ii/#/description)
 
 (13)Longest Palindrome:[leetcode 409](https://leetcode.com/problems/longest-palindrome/#/description)
 
