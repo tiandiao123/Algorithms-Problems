@@ -36,6 +36,8 @@ The implemented algorithms are in the src fold!
 
 (1)implementation of the target sum, and the question's detsils are in my targetsum.java file
 
+(2)Count Numbers with Unique Digits:https://leetcode.com/problems/count-numbers-with-unique-digits/#/description
+
 ### Segement tree and Binary Indexed Tree Peoblems:
 
 (1)segement-tree implementation to handle range of sum problems: https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
