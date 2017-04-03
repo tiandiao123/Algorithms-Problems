@@ -24,15 +24,15 @@ The implemented algorithms are in the src fold!
 
 (8)wordpattern2 problem(please check my wordpattern2.java file):https://leetcode.com/problems/word-pattern-ii/#/description
 
-(9)perfectnum problem(check perfectnum.java file): https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/
+(9)[perfectnum problem](https://leetcode.com/contest/leetcode-weekly-contest-25/problems/perfect-number/):(check perfectnum.java file)
 
-(10)Boundary of Binary Tree(please check my boundaryOfBinaryTree java file):https://leetcode.com/problems/boundary-of-binary-tree/#/description
+(10)[Boundary of Binary Tree(please check my boundaryOfBinaryTree java file)](https://leetcode.com/problems/boundary-of-binary-tree/#/description)
 
-(11)H_index problem(check H_Index java file):[leetcode 274](https://leetcode.com/problems/h-index/#/description)
+(11)[H_index problem(check H_Index java file):leetcode 274](https://leetcode.com/problems/h-index/#/description)
 
-(12)H_Index2 problem with my [code](src/H_Index2.java):[leetcode 275](https://leetcode.com/problems/h-index-ii/#/description)
+(12)[H_Index2 problem:leetcode 275](https://leetcode.com/problems/h-index-ii/#/description)
 
-(13)[leetcode 409](https://leetcode.com/problems/longest-palindrome/#/description):Longest Palindrome with my [codes]("src/LongestPalindrome")
+(13)[Longest Palindrome:leetcode 409](https://leetcode.com/problems/longest-palindrome/#/description)
 
 ### DP algorithms:
 
