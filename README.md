@@ -32,7 +32,7 @@ The implemented algorithms are in the src fold!
 
 (12)H_Index2 problem with my [code](src/H_Index2.java):[leetcode 275](https://leetcode.com/problems/h-index-ii/#/description)
 
-(13)Longest Palindrome:[leetcode 409](https://leetcode.com/problems/longest-palindrome/#/description)
+(13)[leetcode 409](https://leetcode.com/problems/longest-palindrome/#/description):Longest Palindrome with my [codes](src/LongestPalindrome)
 
 ### DP algorithms:
 
