@@ -40,6 +40,8 @@ The implemented algorithms are in the src fold!
 
 (2)[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/#/description)
 
+(3)[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/#/description)
+
 ### Red-Black Tree:
 
 (1)[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/#/description)
