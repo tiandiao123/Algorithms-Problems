@@ -1,4 +1,4 @@
-
+import java.util.*;
 public class RangeSum2D {
     private static int[][] treenodes;
     private static int collen;
@@ -10,6 +10,13 @@ public class RangeSum2D {
         	   {1, 2, 0, 1, 5},
         	   {4, 1, 0, 1, 7},
         	   {1, 0, 3, 0, 5}};
+          RangeSum2D rangesum=new RangeSum2D(matrix);
+          int subregion=rangesum.sumRegion(2,1,4,3);
+          System.out.println("the area is :"+subregion);
+          System.out.println("now update change the val at row=3 and col=2 into 2");
+          rangesum.update(3, 2, 2);
+          subregion=rangesum.sumRegion(2, 1, 4, 3);
+          System.out.println("now the region should be :"+subregion);
            
 	}
 	public RangeSum2D(int[][] matrix) {
