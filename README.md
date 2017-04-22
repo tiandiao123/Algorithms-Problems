@@ -74,6 +74,8 @@ The implemented algorithms are in the src fold!
 
 (11) Use merge and conquer algorithm to solve the problem Range of Sum problem(check RangeOfSum2 java file)
 
+(12)[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/#/description)
+
 ### Trie Tree problems:
 
 (1)use trie tree to solve Palindrome Pairs:[question link](https://leetcode.com/problems/palindrome-pairs/#/description)
