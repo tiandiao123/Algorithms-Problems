@@ -42,6 +42,8 @@ The implemented algorithms are in the src fold!
 
 (3)[Create Maximum Number](https://leetcode.com/problems/create-maximum-number/#/description)
 
+(4)[Flip Game II](https://leetcode.com/problems/flip-game-ii/#/description)
+
 ### Red-Black Tree:
 
 (1)[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/#/description)
