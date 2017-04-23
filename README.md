@@ -50,6 +50,10 @@ The implemented algorithms are in the src fold!
 
 (1)[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/#/description)
 
+### DFS nd BFS
+
+(1)[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/#/description)
+
 ### Segement tree and Binary Indexed Tree Peoblems:
 
 (1)segement-tree implementation to handle range of sum problems:[question link](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
