@@ -50,7 +50,7 @@ The implemented algorithms are in the src fold!
 
 (1)[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/#/description)
 
-### DFS nd BFS
+### DFS and BFS
 
 (1)[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/#/description)
 
