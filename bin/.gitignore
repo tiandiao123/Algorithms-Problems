@@ -1,8 +1,9 @@
-/ConcatenatedWords$TrieNode.class
-/ConcatenatedWords.class
-/FindMaxXor$TrieNode.class
-/FindMaxXor.class
+/KthSmallestElement.class
+/Problem10.class
+/RangeOfMin.class
 /RangeOfSum2.class
+/RangeSum2D.class
+/RemoveInvalidParanthesis.class
 /ReorderList.class
 /ReversePairs.class
 /ReversePairs2.class
@@ -11,6 +12,7 @@
 /WordSearch2$TrieNode.class
 /WordSearch2.class
 /boundaryOfBinaryTree.class
+/countNumbersWithUniqueDigits.class
 /kNearestPoint$1.class
 /kNearestPoint.class
 /perfectnum.class
@@ -18,13 +20,3 @@
 /slidingwindowmin.class
 /targetsum.class
 /wordpattern2.class
-/H_Index.class
-/H_Index2.class
-/countNumbersWithUniqueDigits.class
-/LongestPalindrome.class
-/MaxNumGivenTwoArrays.class
-/FlipGame.class
-/MaxSumofSubmatrix.class
-/PerfectSquare.class
-/RangeSum2D.class
-/RemoveInvalidParanthesis.class

@@ -34,6 +34,8 @@ The implemented algorithms are in the src fold!
 
 (13)[Longest Palindrome:leetcode 409](https://leetcode.com/problems/longest-palindrome/#/description)
 
+(14)[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/#/description)
+
 ### DP algorithms:
 
 (1)implementation of the target sum, and the question's detsils are in my targetsum.java file
