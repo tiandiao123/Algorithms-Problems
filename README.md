@@ -34,7 +34,7 @@ The implemented algorithms are in the src fold!
 
 (13)[Longest Palindrome:leetcode 409](https://leetcode.com/problems/longest-palindrome/#/description)
 
-(14)[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/#/description)
+(14)[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/#/description):[link of code](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/KthSmallestElement.java)
 
 ### DP algorithms:
 
@@ -50,7 +50,7 @@ The implemented algorithms are in the src fold!
 
 ### Red-Black Tree:
 
-(1)[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/#/description)|[code](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/KthSmallestElement.java)
+(1)[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/#/description)
 
 ### DFS and BFS
 
