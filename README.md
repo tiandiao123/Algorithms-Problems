@@ -50,7 +50,7 @@ The implemented algorithms are in the src fold!
 
 ### Red-Black Tree:
 
-(1)[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/#/description)
+(1)[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/#/description):[code](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/KthSmallestElement.java)
 
 ### DFS and BFS
 
