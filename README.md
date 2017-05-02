@@ -40,7 +40,7 @@ The implemented algorithms are in the src fold!
 
 (16)[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/#/description):[link of my impelmentation](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/SmallestRectabgle.java)
 
-(17)[Additive Number](https://leetcode.com/problems/additive-number/#/description):[link of implementation]()
+(17)[Additive Number](https://leetcode.com/problems/additive-number/#/description):[link of implementation](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/AdditiveNumber.java)
 
 ### DP algorithms:
 
