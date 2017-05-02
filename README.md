@@ -40,6 +40,8 @@ The implemented algorithms are in the src fold!
 
 (16)[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/#/description):[link of my impelmentation](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/SmallestRectabgle.java)
 
+(17)[Additive Number](https://leetcode.com/problems/additive-number/#/description):[link of implementation]()
+
 ### DP algorithms:
 
 (1)implementation of the target sum, and the question's detsils are in my targetsum.java file
