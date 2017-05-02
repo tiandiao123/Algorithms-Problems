@@ -38,7 +38,7 @@ The implemented algorithms are in the src fold!
 
 (15)[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/#/description):[link of implementation](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/WiggleSort2.java)
 
-(16)[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/#/description)
+(16)[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/#/description):[link of my impelmentation](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/SmallestRectabgle.java)
 
 ### DP algorithms:
 
