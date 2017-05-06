@@ -44,7 +44,7 @@ The implemented algorithms are in the src fold!
 
 (18)[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/#/description):[link of implementations](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/RemoveDuplicates.java)
 
-(19)[Split Array Largest Sum ](https://leetcode.com/problems/split-array-largest-sum/#/description):[link of implementation]()
+(19)[Split Array Largest Sum ](https://leetcode.com/problems/split-array-largest-sum/#/description):[link of implementation](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/SplitArray.java)
 
 ### DP algorithms:
 
