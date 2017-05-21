@@ -7,6 +7,10 @@ The implemented algorithms are in the src fold!
 
 ## Questions Links:
 
+### Competition algorithms problems:
+
+(1)[Snake Procession](https://www.codechef.com/SNCKQL17/problems/SNAKPROC):[my codeing link]()
+
 ### Some Of Interview Questions:
 (1)[decode string](https://www.careercup.com/question?id=5692396030394368)
 
