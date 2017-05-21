@@ -9,10 +9,10 @@ The implemented algorithms are in the src fold!
 
 ### Competition algorithms problems:
 
-(1)[Snake Procession](https://www.codechef.com/SNCKQL17/problems/SNAKPROC): [[my codeing link](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/Snake.java)]
+(1)[Snake Procession](https://www.codechef.com/SNCKQL17/problems/SNAKPROC): [[my coding link](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/Snake.java)]
 
 ### Some Of Interview Questions:
-(1)[decode string](https://www.careercup.com/question?id=5692396030394368)
+(1)[decode string](https://www.careercup.com/question?id=5692396030394368):[[my coding link](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/Decodestring.java)]
 
 (2)[basic calculator](https://leetcode.com/problems/basic-calculator/)
 
