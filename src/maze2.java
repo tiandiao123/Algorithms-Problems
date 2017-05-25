@@ -1,3 +1,6 @@
+import java.util.*;
+import java.lang.*;
+
 public class maze2{
     
     class static point{

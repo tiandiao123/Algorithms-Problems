@@ -78,6 +78,8 @@ The implemented algorithms are in the src fold!
 
 (2)[maze problem](https://leetcode.com/problems/the-maze/#/description):[[coding solution](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/Maze1.java)]
 
+(3)[maze 2 problem](https://leetcode.com/problems/the-maze-ii/#/description):[[my coding solution](https://github.com/tiandiao123/Algorithms-Problems/blob/master/src/maze2.java)]
+
 ### Segement tree and Binary Indexed Tree Peoblems:
 
 (1)segement-tree implementation to handle range of sum problems:[question link](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/)
