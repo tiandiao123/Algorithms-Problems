@@ -1,78 +1,45 @@
-    import java.util.*;
-    import java.io.*;
-    import java.lang.*;
-     
-    public class Main
-    {
-              public static void main (String[] args) throws IOException
-              {
-                       BufferedReader r=new BufferedReader(new InputStreamReader(System.in));
- 
-                       int a=Integer.parseInt(r.readLine());
-                       for(int i=0;i<a;i++){
-                           String[] nums_str=r.readLine().split(" ");
- 
-                           int K=Integer.parseInt(nums_str[0]);
-                           int Q=Integer.parseInt(nums_str[1]);
- 
-                           String[] strarray=r.readLine().split(" ");
-                           int[] nums=new int[K];
-                           for(int j=0;j<strarray.length;j++){
-                           		nums[j]=Integer.parseInt(strarray[j]);
-                           }
-                           
-                           Arrays.sort(nums);
- 						   reverse(nums);
-                           for(int j=0;j<Q;j++){
-                              int query=Integer.parseInt(r.readLine());
-                              int count=getcount(nums,query);
-                              System.out.println(count);
-                           }
-                            
-                       }
-     
-              }
- 
-          public static int getcount(int[] nums,int query){
-              	int count=0;
-              	int i=0;
-              	while(i<nums.length&&nums[i]>=query){
-              		i++;
-              		count++;
-              	}
- 
-              	if(i==nums.length){
-              		return count;
-              	}
- 
-              	int j=nums.length-1;
- 
-              	while(i<j){
-              		int largersnake=nums[i];
-              		while(largersnake<query&&i<j){
-              			largersnake++;
-              			j--;
-              		}
- 
-              		if(largersnake>=query){
-              			count++;
-              		}
-              		i++;
-              	}
- 
-              	return count;
-          }
+import java.util.*;
+import java.io.*;
+import java.lang.*;
 
+public class Main{
+      //public static int[][] dirs=new int[][]{{1,0},{-1,0},{0,1}};
 
-          public static void reverse(int[] nums){
-           	   int i=0;
-           	   int j=nums.length-1;
-           	   while(i<j){
-           	   	    int t=nums[i];
-           	   	    nums[i]=nums[j];
-           	   	    nums[j]=t;
-           	   }
+      public static void main (String[] args) throws IOException{
+
+           BufferedReader r=new BufferedReader(new InputStreamReader(System.in));
+           int a=Integer.parseInt(r.readLine());
+
+           for(int i=0;i<a;i++){
+            String[] strarray=r.readLine().split(" ");
+            int N=Integer.parseInt(strarray[0]);
+            int L=Integer.parseInt(strarray[1]);
+            int A=Integer.parseInt(strarray[2]);
+            int B=Integer.parseInt(strarray[3]);
+            
+            String[] strs=r.readLine().split(" ");
+            int[] res=new int[N];
+            for(int j=0;j<N;j++){
+              res[j]=Integer.parseInt(strs[j]);
+            }
+
+            int len=shortestmove(res,L,A,B);
+            System.out.println(len);
+
            }
- 
- 
-    }   
+      }
+
+      public static int shortestmove(int[] nums,int L,int A,int B){
+             int i=0;
+             int j=0;
+             if(nums.length%2==0){
+                  i=nums.length/2-1;
+                  j=nums.length/2;
+                  int count=Math.min(nums[j]-nums[i],);
+                  
+                  
+             }else{
+
+             }
+      }
+} 
